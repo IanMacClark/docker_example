@@ -14,3 +14,4 @@ RUN \
     yum update -y; \
     yum install epel-release -y; \
     yum install -y wget python-pip 
+
