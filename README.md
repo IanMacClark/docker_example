@@ -10,6 +10,6 @@ Warning: Dockerfile will copy all contents of same directory.
 6. Start the container<br />
    `docker run centos:centos7 /path/to/script/that/you/want/to/run/in/docker`
 
-## This is the most basic Dockerfile, for anything addition, please see the docker docs
+## This is the most basic Dockerfile, for anything additional, please see the docker docs
 https://docs.docker.com/
    
